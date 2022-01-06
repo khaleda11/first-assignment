@@ -115,6 +115,13 @@ h3{
           width: 50%;
           margin-right: 10%;
 }
+
+.section-four{
+          display: flex;
+          margin: 5%;
+          margin-bottom:80px ;
+         
+}
 .part-four-left{
           width:50% ;
           margin-left: 10%;
