@@ -26,6 +26,7 @@ h1{
 
 p{
           font-weight: bold;
+          padding-bottom: 15px;
 }
 
 .first_section{
@@ -90,5 +91,27 @@ h3{
 #bg-color3{
           background-color:lightsalmon;
 }
+.third-section{
+          display: flex;
+          margin: 5%;
+          margin-bottom:80px ;
+         
+}
 
+.third-left-part{
 
+           width: 50%;
+           background-image: url(images/picture-4.png);
+           background-repeat: no-repeat;
+           background-position: left ;
+         
+                  
+}
+.third-left-part img{
+          width: 60%;
+          padding-left: 18%;
+}
+.third-right-part{
+          width: 50%;
+          margin-right: 10%;
+}
