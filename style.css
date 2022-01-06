@@ -115,3 +115,15 @@ h3{
           width: 50%;
           margin-right: 10%;
 }
+.part-four-left{
+          width:50% ;
+          margin-left: 10%;
+}
+.part-four-right{
+          width: 50%;
+}
+.part-four-right img{
+          width: 70%;
+          margin-left: 10%;
+          border-radius: 10px;
+}
